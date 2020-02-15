@@ -1,2 +1,2 @@
-# gitbash-for-windows-terminal
-profiles.json para GitBash integrado ao Windows Terminal
+# Integração do GitBash para Windows Terminal
+profiles.json e ícone para GitBash integrado ao Windows Terminal
